@@ -1,0 +1,5 @@
+attackJump:0,1
+moveJump:1,1/-1,1
+initialMove:2,2,-1;1,1/-2,2,-1;-1,1
+enPassant
+canPromote
